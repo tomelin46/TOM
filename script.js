@@ -1,0 +1,1 @@
+const avança = document.querySelctoAll('.btn-proximo');
